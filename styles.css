@@ -82,6 +82,16 @@ p a {
   margin: 0.75em 0 3rem 0;
 }
 
+.splash__title a,
+.splash__subtitle a {
+  color: #054b4d;
+}
+
+.splash__title a:hover,
+.splash__subtitle a:hover {
+  text-decoration: underline
+}
+
 .features {
   display: -webkit-box;
   display: -webkit-flex;
